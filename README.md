@@ -21,4 +21,4 @@ This project implements a face recognition system using Artificial Neural Networ
 # Results
 - Training Samples: 1,170
 - Testing Samples: 390
-- # Model Accuracy: 88.07%
+- Model Accuracy: 88.07%
